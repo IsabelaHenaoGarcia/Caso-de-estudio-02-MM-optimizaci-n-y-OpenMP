@@ -1,0 +1,17 @@
+=== perf stat: BASE (N=3000) ===
+TIEMPO=81.018732
+
+ Performance counter stats for './bin_base':
+
+   <not supported>      cycles:u                                                              
+   <not supported>      instructions:u                                                        
+   <not supported>      cache-misses:u                                                        
+   <not supported>      branch-misses:u                                                       
+
+      81.302810215 seconds time elapsed
+
+      83.017545000 seconds user
+       0.077674000 seconds sys
+
+
+

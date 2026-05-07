@@ -1,0 +1,17 @@
+=== perf stat: COMPILADOR (N=3000) ===
+TIEMPO=11.967708
+
+ Performance counter stats for './bin_compilador':
+
+   <not supported>      cycles:u                                                              
+   <not supported>      instructions:u                                                        
+   <not supported>      cache-misses:u                                                        
+   <not supported>      branch-misses:u                                                       
+
+      12.240433384 seconds time elapsed
+
+      12.522017000 seconds user
+       0.078236000 seconds sys
+
+
+

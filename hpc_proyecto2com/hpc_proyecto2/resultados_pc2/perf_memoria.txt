@@ -1,0 +1,20 @@
+=== perf stat: MEMORIA (N=3000) ===
+Ingrese el tamaño de la matriz (n x n): Ingrese el numero de hilos: 
+Tiempo paralelo: 287.841547 segundos
+Speedup: 0.838102
+Eficiencia: 0.838102
+
+ Performance counter stats for './bin_memoria':
+
+   <not supported>      cycles:u                                                              
+   <not supported>      instructions:u                                                        
+   <not supported>      cache-misses:u                                                        
+   <not supported>      branch-misses:u                                                       
+
+     529.433000619 seconds time elapsed
+
+     542.789874000 seconds user
+       0.426831000 seconds sys
+
+
+

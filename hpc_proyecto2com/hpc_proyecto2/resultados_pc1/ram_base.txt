@@ -1,0 +1,5 @@
+=== Memoria RAM: BASE (N=4000) ===
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:30.20
+	Maximum resident set size (kbytes): 189312
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 47026

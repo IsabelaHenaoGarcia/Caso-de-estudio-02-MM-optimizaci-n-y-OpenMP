@@ -1,0 +1,4 @@
+=== perf stat: COMPILADOR (N=3000) ===
+./run_profile.sh: line 117: perf: command not found
+[perf no disponible o sin permisos]
+

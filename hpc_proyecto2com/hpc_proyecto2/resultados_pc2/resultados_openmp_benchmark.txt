@@ -1,0 +1,78 @@
+[1m── Tamaño n = 400 ──[0m
+  run 1 → T_seq=0.048275s  T_par=0.021871s  Speedup=2.207261  Eficiencia=0.183938
+  run 2 → T_seq=0.048371s  T_par=0.017006s  Speedup=2.844348  Eficiencia=0.237029
+  run 3 → T_seq=0.047724s  T_par=0.017751s  Speedup=2.688550  Eficiencia=0.224046
+  run 4 → T_seq=0.047923s  T_par=0.011879s  Speedup=4.034260  Eficiencia=0.336188
+  run 5 → T_seq=0.048248s  T_par=0.017687s  Speedup=2.727871  Eficiencia=0.227323
+  run 6 → T_seq=0.047394s  T_par=0.017211s  Speedup=2.753709  Eficiencia=0.229476
+  run 7 → T_seq=0.047858s  T_par=0.009969s  Speedup=4.800728  Eficiencia=0.400061
+  run 8 → T_seq=0.047617s  T_par=0.016375s  Speedup=2.907893  Eficiencia=0.242324
+  run 9 → T_seq=0.048293s  T_par=0.017634s  Speedup=2.738617  Eficiencia=0.228218
+  run 10 → T_seq=0.046976s  T_par=0.017500s  Speedup=2.684337  Eficiencia=0.223695
+  PROMEDIO → T_seq=0.047868s  T_par=0.016488s  Speedup=3.038750  Eficiencia=0.253230
+
+[1m── Tamaño n = 600 ──[0m
+  run 1 → T_seq=0.163594s  T_par=0.023516s  Speedup=6.956701  Eficiencia=0.579725
+  run 2 → T_seq=0.162875s  T_par=0.027619s  Speedup=5.897209  Eficiencia=0.491434
+  run 3 → T_seq=0.163265s  T_par=0.023403s  Speedup=6.976260  Eficiencia=0.581355
+  run 4 → T_seq=0.161853s  T_par=0.026312s  Speedup=6.151284  Eficiencia=0.512607
+  run 5 → T_seq=0.162260s  T_par=0.024206s  Speedup=6.703285  Eficiencia=0.558607
+  run 6 → T_seq=0.163017s  T_par=0.024123s  Speedup=6.757728  Eficiencia=0.563144
+  run 7 → T_seq=0.162084s  T_par=0.023596s  Speedup=6.869129  Eficiencia=0.572427
+  run 8 → T_seq=0.162415s  T_par=0.023237s  Speedup=6.989478  Eficiencia=0.582456
+  run 9 → T_seq=0.161654s  T_par=0.024400s  Speedup=6.625150  Eficiencia=0.552096
+  run 10 → T_seq=0.161093s  T_par=0.023519s  Speedup=6.849501  Eficiencia=0.570792
+  PROMEDIO → T_seq=0.162410s  T_par=0.024393s  Speedup=6.677570  Eficiencia=0.556465
+
+[1m── Tamaño n = 800 ──[0m
+  run 1 → T_seq=0.389719s  T_par=0.094197s  Speedup=4.137278  Eficiencia=0.344773
+  run 2 → T_seq=0.368399s  T_par=0.097173s  Speedup=3.791162  Eficiencia=0.315930
+  run 3 → T_seq=0.369558s  T_par=0.096346s  Speedup=3.835742  Eficiencia=0.319645
+  run 4 → T_seq=0.370126s  T_par=0.093434s  Speedup=3.961361  Eficiencia=0.330113
+  run 5 → T_seq=0.368581s  T_par=0.099129s  Speedup=3.718195  Eficiencia=0.309850
+  run 6 → T_seq=0.373807s  T_par=0.116171s  Speedup=3.217728  Eficiencia=0.268144
+  run 7 → T_seq=0.370288s  T_par=0.114042s  Speedup=3.246944  Eficiencia=0.270579
+  run 8 → T_seq=0.368745s  T_par=0.111175s  Speedup=3.316799  Eficiencia=0.276400
+  run 9 → T_seq=0.356557s  T_par=0.099278s  Speedup=3.591496  Eficiencia=0.299291
+  run 10 → T_seq=0.354268s  T_par=0.109456s  Speedup=3.236624  Eficiencia=0.269719
+  PROMEDIO → T_seq=0.369007s  T_par=0.103040s  Speedup=3.605330  Eficiencia=0.300444
+
+[1m── Tamaño n = 1600 ──[0m
+  run 1 → T_seq=6.457518s  T_par=3.372104s  Speedup=1.914982  Eficiencia=0.159582
+  run 2 → T_seq=7.276483s  T_par=3.843571s  Speedup=1.893157  Eficiencia=0.157763
+  run 3 → T_seq=7.319510s  T_par=3.935665s  Speedup=1.859790  Eficiencia=0.154983
+  run 4 → T_seq=6.595587s  T_par=4.214540s  Speedup=1.564960  Eficiencia=0.130413
+  run 5 → T_seq=6.706706s  T_par=4.278835s  Speedup=1.567414  Eficiencia=0.130618
+  run 6 → T_seq=7.147390s  T_par=3.600000s  Speedup=1.985386  Eficiencia=0.165449
+  run 7 → T_seq=6.380242s  T_par=4.383630s  Speedup=1.455470  Eficiencia=0.121289
+  run 8 → T_seq=6.736574s  T_par=4.316618s  Speedup=1.560614  Eficiencia=0.130051
+  run 9 → T_seq=6.668160s  T_par=4.504518s  Speedup=1.480327  Eficiencia=0.123361
+  run 10 → T_seq=6.518001s  T_par=4.489915s  Speedup=1.451698  Eficiencia=0.120975
+  PROMEDIO → T_seq=6.780620s  T_par=4.093920s  Speedup=1.673380  Eficiencia=0.139448
+
+[1m── Tamaño n = 3000 ──[0m
+  run 1 → T_seq=200.154930s  T_par=45.435214s  Speedup=4.405282  Eficiencia=0.367107
+  run 2 → T_seq=201.670474s  T_par=46.835151s  Speedup=4.305964  Eficiencia=0.358830
+  run 3 → T_seq=204.149365s  T_par=47.008393s  Speedup=4.342828  Eficiencia=0.361902
+  run 4 → T_seq=205.272575s  T_par=48.909055s  Speedup=4.197026  Eficiencia=0.349752
+  run 5 → T_seq=209.183162s  T_par=49.967445s  Speedup=4.186389  Eficiencia=0.348866
+  run 6 → T_seq=208.917240s  T_par=50.132734s  Speedup=4.167282  Eficiencia=0.347273
+  run 7 → T_seq=209.504442s  T_par=49.683489s  Speedup=4.216782  Eficiencia=0.351398
+  run 8 → T_seq=208.004948s  T_par=49.607738s  Speedup=4.192994  Eficiencia=0.349416
+  run 9 → T_seq=208.800810s  T_par=50.158296s  Speedup=4.162837  Eficiencia=0.346903
+  run 10 → T_seq=209.691324s  T_par=50.565802s  Speedup=4.146900  Eficiencia=0.345575
+  PROMEDIO → T_seq=206.534000s  T_par=48.830300s  Speedup=4.232430  Eficiencia=0.352703
+
+[1m── Tamaño n = 3200 ──[0m
+  run 1 → T_seq=239.691985s  T_par=58.053626s  Speedup=4.128803  Eficiencia=0.344067
+  run 2 → T_seq=232.391405s  T_par=57.196520s  Speedup=4.063034  Eficiencia=0.338586
+  run 3 → T_seq=237.706829s  T_par=57.923223s  Speedup=4.103826  Eficiencia=0.341986
+  run 4 → T_seq=238.982328s  T_par=57.940363s  Speedup=4.124626  Eficiencia=0.343719
+  run 5 → T_seq=235.544349s  T_par=57.949108s  Speedup=4.064676  Eficiencia=0.338723
+  run 6 → T_seq=236.882474s  T_par=57.628151s  Speedup=4.110534  Eficiencia=0.342545
+  run 7 → T_seq=234.522292s  T_par=57.522672s  Speedup=4.077041  Eficiencia=0.339753
+  run 8 → T_seq=235.551246s  T_par=58.079619s  Speedup=4.055661  Eficiencia=0.337972
+  run 9 → T_seq=238.918483s  T_par=58.108566s  Speedup=4.111588  Eficiencia=0.342632
+  run 10 → T_seq=237.372749s  T_par=57.570910s  Speedup=4.123137  Eficiencia=0.343595
+  PROMEDIO → T_seq=236.756000s  T_par=57.797300s  Speedup=4.096290  Eficiencia=0.341357
+
